@@ -29,7 +29,7 @@ twitter_username: asfrhn
 github_username:  asif-rehan
 
 # Build settings
-theme: minima
+theme: midnight
 plugins:
   - jekyll-feed
 
