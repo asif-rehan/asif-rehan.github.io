@@ -1,0 +1,24 @@
+---
+id: 235
+title: 'Distributed/Big Data Geospatial Processing Tools'
+date: '2020-03-11T21:22:00+00:00'
+author: 'Asif Rehan'
+layout: post
+guid: 'https://asifrehan.com/?p=235'
+permalink: /distributed-big-data-geospatial-processing-tools/
+categories:
+    - 'Data Science'
+    - System
+---
+
+Work-in-progress. I will write more about each approach later in details.
+
+Just summarizing the tools for connecting to Hadoop and running geospatial processing on a large dataset. I am working on a ~100 GB Hive Table which is just a small subset of the original dataset
+
+1. h[ttp://geospark.datasyslab.org/](http://geospark.datasyslab.org/)
+2. <https://pypi.org/project/geopyspark/>
+3. <https://github.com/Esri/gis-tools-for-hadoop/wiki>
+4. Kinetica GPU Database – Graph solver and Match solver
+5. PySpark python libraries
+6. Spatial Hadoop
+7. Alteryx – Using Connect-in-DB function to connect to Hadoop

@@ -1,0 +1,50 @@
+---
+id: 226
+title: 'My Application to OMSCS'
+date: '2020-01-19T19:35:54+00:00'
+author: 'Asif Rehan'
+layout: post
+guid: 'https://asifrehan.com/?p=226'
+permalink: /my-application-to-omscs/
+categories:
+    - Blog
+    - OMSCS
+tags:
+    - OMSCS
+---
+
+I applied for [Georgia Tech’s OMSCS](http://www.omscs.gatech.edu/) program in 2018 and started my first semester in January 2019. Since I have been into the program for over a year, I felt sometimes that I should share my admission essays. After this Spring 2020 semester, I will be halfway there to graduate in terms on credits. So I want to share the essays at this point of my new academic journey for my own reflection, and hopefully secure some accountability to keep pushing towards the goals I have set for myself. It has been taking a great effort to balance my job as a Data Scientist at Ford Motor Company and studies going on in parallel. Thanks to my loving wife, Mou for all the support!
+
+Now without any further ado, you can read the two essays right below. These were written in 2018. So the contents here reflect that time.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Georgia_Tech_logo.svg/1280px-Georgia_Tech_logo.svg.png)
+
+# **Career Objectives and Background Essay – “What has prepared you for this program?”**
+
+###### **Please describe your background (academic and extracurricular) and experience, including research, teaching, industry, and other relevant information.** 
+
+<span style="font-weight: 400;">Coming from a [Transportation Engineering](https://en.wikipedia.org/wiki/Transportation_engineering) background, I learned C++ in [college](https://www.buet.ac.bd/web/). But only much later as a Graduate Research Assistant at [UConn](https://uconn.edu/), I applied programming skills in Python to [build a prototype](https://github.com/asif-rehan/ETA_KRR) to estimate route level travel time from GPS data. For this, I [implemented a Hidden Markov Model-based map-matching algorithm](https://github.com/asif-rehan/HMM_Map_matching_raw) using Kernel Ridge Regression and Viterbi algorithm. Taking Applied Statistics courses and achieving 4.3 out of 4 in the [Neural Networks course at UConn](https://cyberlab.engr.uconn.edu/ece-6141/) prepared me to handle challenging mobility problems. I also taught myself Java, [implemented data structures and algorithms](https://github.com/asif-rehan/data-structure-and-algorithms) in Java, and studied Complexity Theory using Princeton, MIT, and University of Arizona course lectures available online.</span>
+
+<span style="font-weight: 400;">While working at [Metropia](https://www.metropia.com/) as a Research Engineer, I had a deep exposure to software and web architecture. There I actually covered many roles: researched new algorithms, developed software, discussed backend architecture, set up and maintained AWS servers and databases, and created dashboards using SQL. I researched and developed an algorithm to predict delay at traffic intersections and integrated with the real-time routing API. Eventually, I also developed a parameter optimization tool in Python that worked across a few AWS servers simultaneously improving routing prediction by a few percentage points. I developed an API [predicting El Paso-Juarez border](https://www.elpasotexas.gov/~/media/files/coep/communication%20and%20public%20affairs/news%20release/news%20release%20%20city%20metropia%20to%20launch%20beta%20test%20for%20new%20border%20crossing%20app.ashx) crossing time using GPS data from our app users. It involved building web-crawlers, statistical modeling, Neural Net regression, and a real-time reporting dashboard.</span>
+
+<span style="font-weight: 400;">Since I have joined [Ford as a Data Scientist](https://www.youtube.com/watch?v=tMkYbMrZGwc), I am leading end-to-end development and commercialization of a new analytic product. I developed the algorithms, and the data pipeline by exploiting QuadTree for geospatial sampling and multithreaded API calls to collect 2 million data for the prediction model. Currently, I am working with the team to scale it globally.</span>
+
+<span style="font-weight: 400;">With my experience in applying Computer Science, I am well prepared for this program.</span>
+
+# **Statement of purpose**
+
+###### **Please give a Statement of Purpose detailing your academic and research goals as well as career plans. Include your reasons for choosing the College of Computing as opposed to other programs and/or other universities.** 
+
+<span style="font-weight: 400;">In summer 2014, while I was in my previous [Master’s program in Civil Engineering at UConn](https://cee.engr.uconn.edu/), I was mostly coding in Python for my graduate research project and was reading papers from Computer Science (CS) journals frequently. Later during the summer of 2016, I was working at a startup, [Metropia](https://www.metropia.com/). By then, I was able to build many algorithms and software tools using my programming skills but I realized that I lacked many fundamental CS concepts which I have been teaching myself using online resources. Neither it is efficient, nor it leads to any university endorsement for my skills. So my conviction to obtain a formal masters in CS has been growing stronger with time since then.</span>
+
+<span style="font-weight: 400;">On the other hand, it is not realistic to leave my full-time job for graduate school either. I heard about the OMSCS program at the beginning of 2018. Right at that time, I joined [Ford Motor Company as a Data Scientist](https://www.linkedin.com/in/asifrehan/). At Ford, I realize that the tools I build can be better if I have a deeper understanding of CS concepts. Fortunately, my manager agreed and he encouraged me to pursue OMSCS and Ford would support me with tuition fees. Three current colleagues at Ford enrolled in OMSCS program provided great positive reviews about the program and mentioned it is a rigorous program. Given the highly respected top-ranked Graduate CS program at Georgia Tech and its pioneering faculties, I intend to work hard, learn the most, and apply it to my job and career.</span>
+
+<span style="font-weight: 400;">From my background in Mobility and Transportation, I find mobility problems heavily rely on CS theory and techniques. For example, in my work, I used parallel programming, a code profiler to optimize memory at runtime, and also developed APIs. But I want to go deeper and learn better ways to do it. I would like to take the opportunity of curated courses at OMSCS. I have come quite far by teaching myself CS skills, and I would like to get the missing CS degree to accelerate forward.</span>
+
+<span style="font-weight: 400;">My career plan for the next 8-10 years is divided into three phases. In the short term, while I am enrolled in the degree, I would like to leverage my coursework to develop better </span><span style="font-weight: 400;">analytic software products on my job. My focus will be to learn as much as possible about software engineering and build scalable machine learning tools. Courses like Graduate Algorithms and Machine Learning will be useful for this purpose. Also, the system design knowledge from courses like Software Development Process and Software Architecture and Design will be useful as well. I intend to choose machine learning specialization for my degree. I believe my current and immediate career trajectory will have many projects to apply all the learnings from the degree. </span>
+
+<span style="font-weight: 400;">For the next 1-3 years after graduation, I would like to be able to lead analytic software development projects with my technical leadership. With a degree from [Georgia Tech](https://www.cc.gatech.edu/), I envision that my skills will be valued, and I will be leading a technical team. </span>
+
+<span style="font-weight: 400;">Finally, 3-5 years after my graduation, I would like to be able to architect full-stack analytic software. This step will need more time for me to get enough experience. At this phase, I believe I will have enough exposure to the industry to find new product ideas and be a product manager. I intend to obtain an MBA to develop skills for running a company. I imagine I will be either leading a team within a large company or establishing my own that will develop software for emerging autonomous vehicles. </span>
+
+<span style="font-weight: 400;">With my current role at Ford, I see the emerging new autonomous technologies closely and my transportation engineering background will be immensely valuable in creating new software products for the new upcoming transportation ecosystem. In the future, I may stay at my current company at Ford or move to other companies like General Motors, Google, Uber or Lyft, or maybe start my own. But with the OMSCS degree from Georgia Tech, I will be better able to progress in my career trajectory as I have outlined above.</span>
